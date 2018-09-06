@@ -1,2 +1,4 @@
 Console.Writeline("hello");
 Console.Writeline("world");
+Console.WriteLine("Enter a number");
+Console.ReadLine();
